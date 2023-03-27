@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+D:\NoteTaker\.metadata\.plugins\org.eclipse.jdt.core
+1561073781.index
+1812341011.index
+3739068750.index
+1865797976.index

@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\NoteTaker\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2141471973.index
