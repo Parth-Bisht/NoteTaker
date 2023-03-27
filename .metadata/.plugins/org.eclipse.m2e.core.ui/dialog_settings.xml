@@ -25,13 +25,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.todo.NoteTaker"/>
 		</list>
 		<list key="groupId">
-			<item value="com.todo"/>
 		</list>
 		<list key="artifactId">
-			<item value="NoteTaker"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
